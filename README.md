@@ -2,7 +2,8 @@
 
 ### Hi there 👋
 I'm Wiktor, and I'm a fullstack .NET developer, who also had some basic experience with DevOps and security research along his way :)
-I hope you find my work useful.
+
+I hope you will find my work useful.
 
 [Portfolio](https://wiciaki.github.io/)
 
