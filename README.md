@@ -5,7 +5,7 @@ I'm Wiktor, and I'm a fullstack .NET developer, who also had some basic experien
 
 I hope you will find my work useful.
 
-Make sure to out my portfolio:
+Make sure to check out my portfolio:
 
 <a href="https://wiciaki.github.io/">
   <img src="portfolio-svgrepo-com.svg" width="100" />
