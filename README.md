@@ -5,6 +5,10 @@ I'm Wiktor, and I'm a fullstack .NET developer, who also had some basic experien
 
 I hope you will find my work useful.
 
-[Portfolio](https://wiciaki.github.io/)
+<a href="https://wiciaki.github.io/">
+  <img src="portfolio-svgrepo-com.svg" width="64" />
+</a>
 
-[LinkedIn](https://linkedin.com/in/wiktor-mendalka/)
+<a href="https://linkedin.com/in/wiktor-mendalka/">
+  <img src="linkedin-svgrepo-com.svg" width="64" />
+</a>
