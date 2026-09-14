@@ -1,16 +1,12 @@
 ![](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
 
-### Hey there 👋
-I'm Wiktor, and I'm a backend-oriented fullstack developer (.NET + Angular/Node.js), who also had some basic DevOps experience along his way :)
+## Hi there 👋
 
-I hope you will find my work useful.
+I'm Wiktor, a software engineer from Warsaw. I've been writing backend code since 2014, mostly in C# and TypeScript, and I like systems that stay boring in production.
 
-Make sure to check out my portfolio:
+These days I'm the CTO and co-founder of [WeGuide](https://www.weguide.ai/), an AI travel companion for Japan that I took from nothing to an MVP.
+Besides that, I run a small software house, IT recruitment agency, mentor developers and I'm pursuing a PhD in machine learning.
 
-<a href="https://wiciaki.github.io/">
-  <img src="portfolio-svgrepo-com.svg" width="100" />
-</a>
+### 📫 How to reach me
 
-<a href="https://linkedin.com/in/wiktor-mendalka/">
-  <img src="linkedin-svgrepo-com.svg" width="100" />
-</a>
+[LinkedIn](https://www.linkedin.com/in/wiktor-mendalka/) is the fastest. More about me on [wiciaki.github.io](https://wiciaki.github.io/).
