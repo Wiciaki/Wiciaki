@@ -1,5 +1,3 @@
-![](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
-
 ## Hi there 👋
 
 I'm Wiktor, a software engineer from Warsaw. I've been writing backend code since 2014, mostly in C# and TypeScript, and I like systems that stay boring in production.
