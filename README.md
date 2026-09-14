@@ -5,6 +5,7 @@
 I'm Wiktor, a software engineer from Warsaw. I've been writing backend code since 2014, mostly in C# and TypeScript, and I like systems that stay boring in production.
 
 These days I'm the CTO and co-founder of [WeGuide](https://www.weguide.ai/), an AI travel companion for Japan that I took from nothing to an MVP.
+
 Besides that, I run a small software house ([SoftwareCity](https://softwarecity.pl/)), an IT recruitment agency ([Hireify](https://hireify.pl/)), mentor developers ([Coursify](https://coursify.pl/)) and I'm pursuing a PhD in machine learning.
 
 ### 📫 How to reach me
