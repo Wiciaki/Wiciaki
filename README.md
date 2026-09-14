@@ -10,4 +10,4 @@ Besides that, I run a small software house ([SoftwareCity](https://softwarecity.
 
 ### 📫 How to reach me
 
-[LinkedIn](https://www.linkedin.com/in/wiktor-mendalka/) is the fastest, or email me at [wiktor.mendalka@coursify.pl](mailto:wiktor.mendalka@coursify.pl). More about me on [wiciaki.github.io](https://wiciaki.github.io/).
+[LinkedIn](https://www.linkedin.com/in/wiktor-mendalka/) is the fastest, or email me at [wiktor.mendalka@outlook.com](mailto:wiktor.mendalka@outlook.com). More about me on [wiciaki.github.io](https://wiciaki.github.io/).
